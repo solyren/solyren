@@ -50,7 +50,7 @@
 
 <br>
 
-<div align="center">
+<div align="center" style="border: 2px solid #00b4d8; border-radius: 10px; padding: 10px; display: inline-block;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solyren/solyren/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/solyren/solyren/output/github-contribution-grid-snake.svg">
