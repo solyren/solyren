@@ -1,4 +1,0 @@
-usr/bin/git push --force ***github.com/solyren/solyren.git output
-  remote: Permission to solyren/solyren.git denied to github-actions[bot].
-  fatal: unable to access 'https://github.com/solyren/solyren.git/': The requested URL returned error: 403
-  Error: The process '/usr/bin/git' failed with exit code 128
